@@ -1,0 +1,48 @@
+{
+  "name": "WENWEN",
+  "logoURI": "https://raw.githubusercontent.com/wenwenprotocol/tokenlist/master/assets/share.svg",
+  "keywords": [
+    "stablecoin",
+    "defi"
+  ],
+  "timestamp": "2021-06-15T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x772C316e0A7Ab5f1DE6de5199A22c951254C5CD3",
+      "name": "WENWEN SHAREN",
+      "symbol": "SHAREN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wenwenprotocol/tokenlist/master/assets/share.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bC831111B480f07b7F74DBE90726f3b11201033",
+      "name": "WENWEN USD",
+      "symbol": "USDN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wenwenprotocol/tokenlist/master/assets/usdn.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x95E91a76f225612995043AB26A98E6a4E3e1999b",
+      "name": "WENWEN JPY",
+      "symbol": "JPYN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wenwenprotocol/tokenlist/master/assets/jpyn.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x96dc9e0fE87EEf0b48f88d6aC541ba4F9992aac6",
+      "name": "WENWEN EUR",
+      "symbol": "EURN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wenwenprotocol/tokenlist/master/assets/eurn.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
